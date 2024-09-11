@@ -1,3 +1,1 @@
-# Currency Conversion Simple App
-
-# convert-currency
+# Simple Currency Conversion App
